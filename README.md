@@ -1,4 +1,4 @@
-# MAD-EXP-1-To-Create-a-HelloWorld-Activity-using-all-Lifecycles-Methods-to-Display-Messages
+# EXP-1-To-Create-a-HelloWorld-Activity-using-all-Lifecycles-Methods-to-Display-Messages
 
 ## AIM:
 
@@ -107,14 +107,6 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT:
-
-![image](https://github.com/Siddarthan999/MAD-EXP-1-To-Create-a-HelloWorld-Activity-using-all-Lifecycles-Methods-to-Display-Messages/assets/91734840/9a1f954e-a9c8-4cbf-bf73-6edbb97df378)
-
-![image](https://github.com/Siddarthan999/MAD-EXP-1-To-Create-a-HelloWorld-Activity-using-all-Lifecycles-Methods-to-Display-Messages/assets/91734840/a2ef3eb2-8b95-4377-be72-e80599e17685)
-
-![image](https://github.com/Siddarthan999/MAD-EXP-1-To-Create-a-HelloWorld-Activity-using-all-Lifecycles-Methods-to-Display-Messages/assets/91734840/abe0f11a-98de-4e73-8fa9-67074ed1aa8e)
-
-![image](https://github.com/Siddarthan999/MAD-EXP-1-To-Create-a-HelloWorld-Activity-using-all-Lifecycles-Methods-to-Display-Messages/assets/91734840/dabf2256-c354-4173-839e-25a6f448f5b2)
 
 ![image](https://github.com/Siddarthan999/MAD-EXP-1-To-Create-a-HelloWorld-Activity-using-all-Lifecycles-Methods-to-Display-Messages/assets/91734840/9d96a188-d996-40e2-b21d-7dfd5ffc26cd)
 
